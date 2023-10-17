@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/cassandraexporter
+module github.com/YifanTerryYang/opentelemetry-collector-contrib/exporter/cassandraexporter
 
 go 1.18
 
